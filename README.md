@@ -1,2 +1,0 @@
-# LuckyStar
-my repository
